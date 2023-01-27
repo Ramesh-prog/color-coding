@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-coding/static/css/main.f99602f9.css",
+    "main.js": "/color-coding/static/js/main.ddddfd3f.js",
+    "index.html": "/color-coding/index.html",
+    "main.f99602f9.css.map": "/color-coding/static/css/main.f99602f9.css.map",
+    "main.ddddfd3f.js.map": "/color-coding/static/js/main.ddddfd3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99602f9.css",
+    "static/js/main.ddddfd3f.js"
+  ]
+}
